@@ -5,6 +5,7 @@ pink
 blue
 orange
 unicorn
+indigo
 red
 these are the colors of the rainbow .
 and the unicorn.
